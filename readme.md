@@ -39,7 +39,7 @@ This project is a personal trainer that will help you to do exercises at home. I
     }
     ```
 
-- Then accordingly, modify the line 20 in the `main.py` file, with your choice of points. For example, if you want to track the right arm, you can modify the line as follows:
+- Then accordingly, modify the line 20 in the [main.py](main.py) file, with your choice of points. For example, if you want to track the right arm, you can modify the line as follows:
 
     ```python
     angle = detector.findAngle(img, 12, 14, 16,pts = True, lines= True)

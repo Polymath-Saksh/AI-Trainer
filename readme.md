@@ -20,6 +20,9 @@ This project is a personal trainer that will help you to do exercises at home. I
 
 ## Usage
 
+[test-train.webm](https://github.com/Polymath-Saksh/Vision-Personal-Trainer/assets/67389168/28d59edf-223d-4bef-9708-6b3c6b4edd49)
+
+
 - Choose the points you want to track in the `main.py` file. You can choose from the following points:
 
     ```python
